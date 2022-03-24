@@ -6,7 +6,9 @@
 2. `$ docker run -p 8000:8000 my_app`
 3. http://127.0.0.1:8000/
 
-##Admin panel
-http://127.0.0.1:8000/admin/
+## Admin panel
+http://127.0.0.1:8000/admin/ 
+
 Username: admin
+
 Password: admin
